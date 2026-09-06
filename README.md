@@ -31,10 +31,10 @@ Therefore, the aim of this study is to develop and evaluate explainable machine 
 | Risk | Data privacy regulations may restrict access to certain customer information. |
 | Action | Obtain and review all required datasets from STADIOEquities. |
 | Action | Perform exploratory data analysis to identify trends and patterns. |
-| Action | Clean and prepare data for modelling. |
-| Action | Create behavioural features to improve predictive performance. |
-| Action | Develop and evaluate multiple machine learning models. |
-| Action | Apply explainable AI techniques to interpret model predictions. |
+| Action | Cleaning and preparing data for modelling. |
+| Action | Creating behavioural features to improve predictive performance. |
+| Action | Developing and evaluate multiple machine learning models. |
+| Action | Applying explainable AI techniques to interpret model predictions. |
 | Action | Present findings and recommendations to stakeholders. |
 | Assumption | Customer registration data is accurate and up to date. |
 | Assumption | Customer IDs are consistent across all data sources. |
@@ -43,17 +43,10 @@ Therefore, the aim of this study is to develop and evaluate explainable machine 
 | Assumption | Investor activation can be clearly defined and measured. |
 | Assumption | Platform engagement activities are recorded consistently. |
 | Issue | Delays may occur in receiving the required datasets from the client. |
-| Issue | Important variables may contain missing values. |
-| Issue | Data formats may differ across systems. |
-| Issue | Different departments may define active investors differently. |
-| Issue | Available datasets may have limited documentation. |
-| Decision | Use supervised machine learning techniques to predict investor activation and engagement. |
-| Decision | Use anonymised customer data to ensure privacy compliance. |
-| Decision | Compare multiple machine learning algorithms before selecting a final model. |
-| Decision | Use behavioural, transactional and engagement variables as predictors. |
-| Decision | Use explainable AI methods to support the interpretation of model predictions. |
+| Decision | Supervised machine learning techniques such as Logistic Regression and Gradient Boosting will be used to predict investor activation and engagement. |
+| Decision | Explainable AI methods will be used to support the interpretation of model predictions. |
+| Dependency | A complete data dictionary is required to understand available variables. |
+| Dependency | Approval to access and analyse customer data is required before the project can begin. |
 | Dependency | Access to customer registration and profile data is required. |
 | Dependency | Access to funding and deposit history data is required. |
 | Dependency | Access to transaction and trading activity data is required. |
-| Dependency | A complete data dictionary is required to understand available variables. |
-| Dependency | Approval to access and analyse customer data is required before the project can begin. |
