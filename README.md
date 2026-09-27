@@ -51,5 +51,3 @@ Therefore, the aim of this study is to develop and evaluate explainable machine 
 | Dependency | Access to funding and deposit history data is required. |
 | Dependency | Access to transaction and trading activity data is required. |
 
-
-[Data](https://github.com/Geoginah-stadio/retail-investor-behaviour-prediction/blob/main/notebooks/01_Data_Preprocessing.ipynb)
