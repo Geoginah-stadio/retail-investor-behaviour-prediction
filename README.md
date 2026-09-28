@@ -1,5 +1,5 @@
 # retail-investor-behaviour-prediction
-A data science project investigating patterns associated with retail investordormancy.
+A data science project investigating patterns associated with retail investor dormancy.
 
 ## Motivation
 The rapid growth of fintech and digital investment platforms has significantly reduced traditional barriers to participating in financial markets. Digital platforms such as STADIOEquities provide individuals with easier and more convenient access to financial products and investment opportunities with relatively small amounts of capital, potentially supporting broader financial inclusion and participation in investment markets (Hong, Lu and Pan, 2025). These developments have created opportunities for more South Africans, particularly among younger and first-time to participate in financial markets and build wealth over time.
@@ -52,7 +52,7 @@ Therefore, the aim of this study is to develop and evaluate explainable machine 
 | Dependency | Access to transaction and trading activity data is required. |
 
 
-## PROJECT DOCUMENTATION
+### PROJECT DOCUMENTATION
 1. [Preprocessing.MD](https://github.com/Geoginah-stadio/retail-investor-behaviour-prediction/blob/main/notebooks/PreprocessingMD.md)
 2. [Feature Engineering.MD](https://github.com/Geoginah-stadio/retail-investor-behaviour-prediction/blob/main/notebooks/FeatureEngineeringMD.MD)
 3. [Logistic Regression.MD](https://github.com/Geoginah-stadio/retail-investor-behaviour-prediction/blob/main/models/LogisticRegressionMD.MD)
