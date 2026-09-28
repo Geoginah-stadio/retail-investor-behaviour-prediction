@@ -50,3 +50,4 @@ Therefore, the aim of this study is to develop and evaluate explainable machine 
 | Dependency | Access to customer registration and profile data is required. |
 | Dependency | Access to funding and deposit history data is required. |
 | Dependency | Access to transaction and trading activity data is required. |
+
