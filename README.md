@@ -54,3 +54,6 @@ Therefore, this study investigates retail investor dormancy on STADIOEquities us
 5. [Logistic Regression Performance.MD](https://github.com/Geoginah-stadio/retail-investor-behaviour-prediction/blob/main/experimental_results/LogisticRegressionPerformanceMD.MD)
 6. [Gradient Boosting Performance.MD](https://github.com/Geoginah-stadio/retail-investor-behaviour-prediction/blob/main/experimental_results/GradientBoostingPerformanceMD.md)
 7. [Model Comparison Performance.MD](https://github.com/Geoginah-stadio/retail-investor-behaviour-prediction/blob/main/statistical_analysis/ModelsComparisonMD.MD)
+
+### SS3 Presentation
+[CAPTONE PRESENTATION](https://youtu.be/E1QWJRozHqU)
